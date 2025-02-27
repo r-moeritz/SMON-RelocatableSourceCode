@@ -134,7 +134,7 @@ HCN             = $21                           ; "!"
 ; - SELECT ONLY ONE VERSION BY UNCOMMENTING IT -
 ; if nothing is selected here, SMON will be compiled without any extension
 
-FMON = 1       ; this is the FMON version, also named SMONFx000, this seems to be the 'normal' or initial one, including the base disc commands
+;FMON = 1       ; this is the FMON version, also named SMONFx000, this seems to be the 'normal' or initial one, including the base disc commands
 ;PLUS = 1       ; this is the PLUS version, also named SMONPx000, for the new function the FMON monitor is removed
 ;ILOC = 1       ; this is the ILOC version, also named SMONIx000, this provides the function to show the illegal opcodes, the FMON is removed 
 
